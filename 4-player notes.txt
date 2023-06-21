@@ -1,0 +1,21 @@
+Two floats, must be 4 in menu, then 1 to start, and 4 to load game
+207EB35C
+209A9C74
+207D0B78 -- from github
+
+20440800 -- 0x140 buffer 1
+20440940 -- 0x140 buffer 2
+20440A80 -- 0x140 buffer 3
+20440BC0 -- 0x140 buffer 4
+20440D00 -- end of array
+
+203D8910 -- p1 id (int)
+203D8914 -- p1 id (int)
+203D8918 -- p1 id (int)
+203D891C -- p1 id (int)
+
+Suspicous functions
+001e5af0
+001e5ba8
+001e5c28
+001e6750
